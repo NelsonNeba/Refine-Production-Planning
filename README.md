@@ -126,6 +126,7 @@ Used **Microsoft Excel** extensively for:
 - **Demographic segmentation distribution**: Segmentation based on age group and income bracket Combined into Types 1–6.
    
    Formula used =IFS(AND(F2="Adult",G2="Low"),"Type 1",AND(F2="Adult",G2="High"),"Type 2",AND(F2="Mid-Aged",G2="Low"),"Type 3",AND(F2="Mid-Aged",G2="High"),"Type 4",AND(F2="Senior",G2="Low"),"Type 5",AND(F2="Senior",G2="High"),"Type 6")
+  
 | Age Group      | Income Level | Tenant Type |
 |----------------|--------------|-------------|
 | Adult          | Low          | Type 1      |

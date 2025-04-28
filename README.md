@@ -2,6 +2,9 @@
 
 # 📊 **SmartHome Solutions Inc. – Supply Chain Optimization Project**
 
+![Dashboard](https://github.com/NelsonNeba/Refine-Production-Planning/blob/main/Assets/DashBoard.png)
+
+
 ## 🏢 **Business Overview**
 
 ### 🔹 Business Introduction

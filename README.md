@@ -2,6 +2,9 @@
 
 # 📊 **SmartHome Solutions Inc. – Supply Chain Optimization Project**
 
+![Dashboard](https://github.com/NelsonNeba/Refine-Production-Planning/blob/main/Assets/DashBoard.png)
+
+
 ## 🏢 **Business Overview**
 
 ### 🔹 Business Introduction
@@ -79,7 +82,14 @@ Here are the separated tables for each dataset in clear Markdown format:
 
 
 ---
+## 🔍 **ERD**
 
+
+![ERD](https://github.com/NelsonNeba/Refine-Production-Planning/blob/main/Assets/Data%20model.png)
+
+
+
+---
 ## 🛠 **Tech Stack**
 
 ![Excel](https://img.shields.io/badge/Excel-Data_Analysis-green)  
@@ -126,6 +136,7 @@ Used **Microsoft Excel** extensively for:
 - **Demographic segmentation distribution**: Segmentation based on age group and income bracket Combined into Types 1–6.
    
    Formula used =IFS(AND(F2="Adult",G2="Low"),"Type 1",AND(F2="Adult",G2="High"),"Type 2",AND(F2="Mid-Aged",G2="Low"),"Type 3",AND(F2="Mid-Aged",G2="High"),"Type 4",AND(F2="Senior",G2="Low"),"Type 5",AND(F2="Senior",G2="High"),"Type 6")
+  
 | Age Group      | Income Level | Tenant Type |
 |----------------|--------------|-------------|
 | Adult          | Low          | Type 1      |
@@ -217,49 +228,6 @@ With these segmentations in place, we can now analyze the sales data to identify
 - 🔹 **Out-of-Stock Items & Replenishment Timeline**
 - 🔹 **Production Capacity per SKU**
 - 🔹 **KPI Cards**: Total SKUs, Customer Count, SKU Quantity Sold, Segment Summary
-
----
-## 📊 **Key Insights**
-
-
----
-
-## 🧭 **Strategic Recommendations**
-
-### 1. **Product Strategy**
-- Focus on **high-demand SKUs** for top segments (e.g., Type 2)
-- Innovate for underrepresented groups (e.g., Type 5)
-
-### 2. **Inventory Management**
-- Implement **dynamic inventory stocking** by region & segment
-- Reduce stock for **low-demand SKUs** to free up resources
-
-### 3. **Targeted Marketing**
-- Launch **segment-specific campaigns** tied to popular SKUs
-- Plan promotions around **seasonal sales patterns**
-
-### 4. **Production Optimization**
-- Shift to **demand-driven scheduling**
-- Introduce **lean production** for SKUs with low volume
-
-### 5. **Regional Customization**
-- Align **logistics and distribution** with regional demand patterns
-- Consider **localized production** for high-volume cities
-
-### 6. **Sustainability & Efficiency**
-- Minimize **waste and overstocking**
-- Align production with real-time **sales feedback loops**
-
----
-
-## 🚀 **Implementation Roadmap**
-
-| Phase        | Focus                                         |
-|--------------|-----------------------------------------------|
-| Short-Term   | Inventory adjustment, marketing campaigns     |
-| Medium-Term  | Refine product offerings via customer insights|
-| Long-Term    | Tech investment for agile supply chain        |
-
 ---
 # Customer Insights & Strategic Recommendations
 
@@ -323,5 +291,4 @@ With these segmentations in place, we can now analyze the sales data to identify
 | **Short-Term** | Adjust inventory; launch January promo campaigns.                      |
 | **Medium-Term**| Develop SKU variants for under-served segments (e.g., middle-aged low-income). |
 | **Long-Term**  | Invest in AI-driven demand forecasting tools.                          |
-
 

@@ -44,7 +44,6 @@ To enhance supply chain performance and align production with customer demand th
 ---
 
 ## 📚 **Datasets Used**
-Here are the separated tables for each dataset in clear Markdown format:
 
 ### 1. Customer Data
 | Field Name             | Description                                      |

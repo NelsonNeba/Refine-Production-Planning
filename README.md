@@ -79,7 +79,14 @@ Here are the separated tables for each dataset in clear Markdown format:
 
 
 ---
+## 🔍 **ERD**
 
+
+![ERD](https://github.com/NelsonNeba/Refine-Production-Planning/blob/main/Assets/Data%20model.png)
+
+
+
+---
 ## 🛠 **Tech Stack**
 
 ![Excel](https://img.shields.io/badge/Excel-Data_Analysis-green)  
@@ -281,5 +288,4 @@ With these segmentations in place, we can now analyze the sales data to identify
 | **Short-Term** | Adjust inventory; launch January promo campaigns.                      |
 | **Medium-Term**| Develop SKU variants for under-served segments (e.g., middle-aged low-income). |
 | **Long-Term**  | Invest in AI-driven demand forecasting tools.                          |
-
 
